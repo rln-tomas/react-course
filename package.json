@@ -1,0 +1,19 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "description": "Charlas de React para Mapplics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rln-tomas/react-course.git"
+  },
+  "author": "Tomas Ezequiel Rolon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rln-tomas/react-course/issues"
+  },
+  "homepage": "https://github.com/rln-tomas/react-course#readme"
+}
